@@ -1,0 +1,5 @@
+- [ ] create new users
+- [ ] list all users
+- [ ] find user by ID
+- [ ] find user by e-mail address
+- [ ] turn an user as admin
